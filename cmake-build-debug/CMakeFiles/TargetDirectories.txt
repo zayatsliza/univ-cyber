@@ -1,0 +1,4 @@
+/Users/zayatsliza/Desktop/LabCpp/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zayatsliza/Desktop/LabCpp/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zayatsliza/Desktop/LabCpp/Lab1/cmake-build-debug/CMakeFiles/example.dir
+/Users/zayatsliza/Desktop/LabCpp/Lab1/cmake-build-debug/CMakeFiles/lab.dir

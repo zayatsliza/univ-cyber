@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lab1.dir/main.c.o CMakeFiles/Lab1.dir/console_interface.c.o CMakeFiles/Lab1.dir/db.c.o CMakeFiles/Lab1.dir/example.c.o  -o Lab1 

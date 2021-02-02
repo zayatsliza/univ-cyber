@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zayatsliza/Desktop/LabCpp/Lab1/db.c
+db.h
+/Users/zayatsliza/Desktop/LabCpp/Lab1/db.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+math.h
+-
+
+/Users/zayatsliza/Desktop/LabCpp/Lab1/db.h
+stdbool.h
+-
+
