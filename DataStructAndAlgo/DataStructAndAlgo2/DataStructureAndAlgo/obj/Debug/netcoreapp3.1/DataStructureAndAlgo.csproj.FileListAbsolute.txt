@@ -1,0 +1,13 @@
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/bin/Debug/netcoreapp3.1/DataStructureAndAlgo.deps.json
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/bin/Debug/netcoreapp3.1/DataStructureAndAlgo.runtimeconfig.json
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/bin/Debug/netcoreapp3.1/DataStructureAndAlgo.runtimeconfig.dev.json
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/bin/Debug/netcoreapp3.1/DataStructureAndAlgo.dll
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/bin/Debug/netcoreapp3.1/DataStructureAndAlgo.pdb
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.csproj.AssemblyReference.cache
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.AssemblyInfoInputs.cache
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.AssemblyInfo.cs
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.csproj.CoreCompileInputs.cache
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.dll
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.pdb
+/Users/zayatsliza/Projects/DataStructureAndAlgo/DataStructureAndAlgo/obj/Debug/netcoreapp3.1/DataStructureAndAlgo.genruntimeconfig.cache
