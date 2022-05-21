@@ -1,0 +1,3 @@
+/Users/zayatsliza/Desktop/LabCpp/DataStructLab/cmake-build-debug/CMakeFiles/DataStructLab.dir
+/Users/zayatsliza/Desktop/LabCpp/DataStructLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zayatsliza/Desktop/LabCpp/DataStructLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
