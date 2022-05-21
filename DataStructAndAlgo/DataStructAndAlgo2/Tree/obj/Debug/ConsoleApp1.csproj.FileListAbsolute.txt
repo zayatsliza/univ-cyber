@@ -1,0 +1,14 @@
+C:/My information/3 course/2 sem/Data structures and algorithms/Купи/Двікова/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+C:/My information/3 course/2 sem/Data structures and algorithms/Купи/Двікова/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+C:/My information/3 course/2 sem/Data structures and algorithms/Купи/Двікова/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+C:/My information/3 course/2 sem/Data structures and algorithms/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.csprojAssemblyReference.cache
+C:/My information/3 course/2 sem/Data structures and algorithms/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/My information/3 course/2 sem/Data structures and algorithms/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+C:/My information/3 course/2 sem/Data structures and algorithms/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
+/Users/zayatsliza/Downloads/Data structures and algorithms (extract.me)/Купи/Двікова/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+/Users/zayatsliza/Downloads/Data structures and algorithms (extract.me)/Купи/Двікова/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+/Users/zayatsliza/Downloads/Data structures and algorithms (extract.me)/Купи/Двікова/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+/Users/zayatsliza/Downloads/Data structures and algorithms (extract.me)/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/zayatsliza/Downloads/Data structures and algorithms (extract.me)/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/zayatsliza/Downloads/Data structures and algorithms (extract.me)/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+/Users/zayatsliza/Downloads/Data structures and algorithms (extract.me)/Купи/Двікова/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
