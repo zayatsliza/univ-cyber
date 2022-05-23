@@ -1,0 +1,77 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:3:1: package mpi does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:2:1: package mpi does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:5:1: package mpi does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:9:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj2[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:10:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:11:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:22:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj2[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:22:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:30:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj2[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:30:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj2[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:30:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj2.java:36:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj2[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:24:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj3[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:25:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:26:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj3[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:29:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj3[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:29:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpj3[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpj3.java:29:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:24:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpjExpr[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:25:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:26:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:27:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:42:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpjExpr[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:42:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpjExpr[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:42:1: package MPI does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mMPI.COMM_WORLD[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zayatsliza/Downloads/paralelProg-main/src/piCalc/mpjExpr.java:54:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable MPI[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class piCalc.mpjExpr[0m
+[0m[[0m[31merror[0m] [0m[0mMPI[0m
