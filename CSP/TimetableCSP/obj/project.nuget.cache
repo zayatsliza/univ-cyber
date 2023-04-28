@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "etE0ILdLOfw/5T6m/OTIUBb9lIphtjqzn+FJ3iXHbFscAO9vJOzyLn8OW5tMGr7LZgJjRHrg2Cy29KIN7n4f2A==",
+  "success": true,
+  "projectFilePath": "/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/TimetableCSP.csproj",
+  "expectedPackageFiles": [
+    "/Users/zayatsliza/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/zayatsliza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/zayatsliza/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
