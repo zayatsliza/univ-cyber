@@ -1,0 +1,14 @@
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/bin/Debug/netcoreapp3.1/TimetableGeneticGeneration
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/bin/Debug/netcoreapp3.1/TimetableGeneticGeneration.deps.json
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/bin/Debug/netcoreapp3.1/TimetableGeneticGeneration.runtimeconfig.json
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/bin/Debug/netcoreapp3.1/TimetableGeneticGeneration.runtimeconfig.dev.json
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/bin/Debug/netcoreapp3.1/TimetableGeneticGeneration.dll
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/bin/Debug/netcoreapp3.1/TimetableGeneticGeneration.pdb
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.csproj.AssemblyReference.cache
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.AssemblyInfoInputs.cache
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.AssemblyInfo.cs
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.csproj.CoreCompileInputs.cache
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.dll
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.pdb
+/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/obj/Debug/netcoreapp3.1/TimetableGeneticGeneration.genruntimeconfig.cache

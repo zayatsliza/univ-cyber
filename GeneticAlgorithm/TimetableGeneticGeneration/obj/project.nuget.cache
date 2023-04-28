@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qG0nCJvaxNd3Snl1V0WK367Xy5DUqBukrIylL9qq3XHqNzPMR4YGWeqSXGvn6w3TtW16cY0tLV0b0bI2z1ldyA==",
+  "success": true,
+  "projectFilePath": "/Users/zayatsliza/Downloads/drive-download-20230417T122629Z-001/GeneticAlgorithm/TimetableGeneticGeneration/TimetableGeneticGeneration.csproj",
+  "expectedPackageFiles": [
+    "/Users/zayatsliza/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/zayatsliza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512",
+    "/Users/zayatsliza/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
